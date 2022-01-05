@@ -1,1 +1,0 @@
-Select Id, Name, BillingStreet, BillingCity, BillingState, BillingPostalCode, Phone, Website FROM Account

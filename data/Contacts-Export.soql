@@ -1,1 +1,0 @@
-SELECT Id, Salutation, FirstName, LastName, Title, AccountId, MailingStreet, MailingCity, MailingState, MailingPostalCode, MailingCountry, Phone, Fax, MobilePhone, Email FROM Contact

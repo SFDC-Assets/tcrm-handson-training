@@ -1,2 +1,0 @@
-executing sfdx force:org:create --json -f config/project-scratch-def.json -d 1 -w 20 -s username=event-monitoring9@work.shop
-Org created with id 00DJ0000003h4IcMAI and username event-monitoring9@work.shop 

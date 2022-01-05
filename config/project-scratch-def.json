@@ -2,21 +2,13 @@
   "orgName": "Real Time Event Monitoring",
   "edition": "Developer",
   "hasSampleData": true,
-  "features": ["EnableSetPasswordInApi", "EventLogFile", "SecurityEventEnabled", "WavePlatform", "EinsteinAnalyticsPlus", "AnalyticsAdminPerms", "AnalyticsAppEmbedded", "DevelopmentWave", "EinsteinAnalyticsPlus", "DataProcessingEngine"],
+  "features": ["EnableSetPasswordInApi", "WavePlatform", "EinsteinAnalyticsPlus", "AnalyticsAdminPerms", "AnalyticsAppEmbedded", "DevelopmentWave", "EinsteinAnalyticsPlus", "DataProcessingEngine"],
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
     },
     "mobileSettings": {
       "enableS1EncryptedStoragePref2": false
-    },
-    "eventSettings": {
-      "enableDeleteMonitoringData": true,
-      "enableTransactionSecurityPolicies": true,
-      "enableEventLogWaveIntegration": true
-    },
-    "securitySettings": {
-      "enableAdminLoginAsAnyUser": true
     }
   }
 }
