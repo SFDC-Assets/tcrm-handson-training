@@ -1,5 +1,5 @@
 {
-  "orgName": "Real Time Event Monitoring",
+  "orgName": "Einstein Discovery",
   "edition": "Developer",
   "hasSampleData": true,
   "features": ["EnableSetPasswordInApi", "WavePlatform", "EinsteinAnalyticsPlus", "AnalyticsAdminPerms", "AnalyticsAppEmbedded", "DevelopmentWave", "EinsteinAnalyticsPlus", "DataProcessingEngine"],
