@@ -1,0 +1,31 @@
+{
+"description":"app description",
+"label":"Customer Insights - Hands On Training 2",
+"templateSourceId" : "sfdc_internal__CustomerInsights",
+
+  "templateValues" : {
+    "Can_Continue" : true,
+    "Has_DataSyncEnabled" : "Yes",
+    "Has_Leads" : "Yes",
+    "Has_Products" : "Yes",
+    "Has_Activities" : "Yes",
+    "Has_Cases" : "Yes",
+    "Has_RoleHierarchy" : "Yes",
+    "Fiscal_Month" : "01 - January",
+    "First_Day_Of_Week" : 0,
+    "FY_Month_Offset_Map" : {
+      "01 - January" : 0,
+      "02 - February" : 1,
+      "03 - March" : 2,
+      "04 - April" : 3,
+      "05 - May" : 4,
+      "06 - June" : 5,
+      "07 - July" : 6,
+      "08 - August" : 7,
+      "09 - September" : 8,
+      "10 - October" : 9,
+      "11 - November" : 10,
+      "12 - December" : 11
+    }
+  }
+}

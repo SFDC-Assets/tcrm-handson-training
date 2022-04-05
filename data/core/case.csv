@@ -1,0 +1,583 @@
+External_Id__c,Account.External_Id__c,CLOSEDDATE,COMMENTS,CREATEDDATE,STATUS,SUBJECT,TYPE
+W_Case.1,W_Account.5277,,,2022-02-04T17:12:20.000Z,New,How do I extend my product warranty?,Product Support
+W_Case.2,W_Account.8528,,,2022-02-04T17:12:20.000Z,Escalated,Email troubleshooting,Technical Issue
+W_Case.3,W_Account.2170,2011-11-08T05:06:44.000Z,,2022-02-04T17:12:20.000Z,Closed,I have a question about my contract.,Account Support
+W_Case.4,W_Account.5763,2018-02-06T14:48:16.000Z,,2022-02-04T17:12:20.000Z,Closed,Initiating return process.,General
+W_Case.5,W_Account.3458,2018-02-06T14:48:21.000Z,,2022-02-04T17:12:20.000Z,Closed,I have a product suggestion.,General
+W_Case.6,W_Account.4308,2018-02-06T14:48:30.000Z,,2022-02-04T17:12:20.000Z,Closed,Expediting my order?,Account Support
+W_Case.7,W_Account.3414,2008-07-17T06:22:10.000Z,,2022-02-04T17:12:20.000Z,Closed,Customer lost product manual and needs replacement,Product Support
+W_Case.8,W_Account.4395,,,2022-02-04T17:12:20.000Z,New,Can't get into my account,Technical Issue
+W_Case.9,W_Account.2973,2021-01-28T15:30:28.000Z,,2022-02-04T17:12:20.000Z,Closed,Product setup issues,Product Support
+W_Case.10,W_Account.94,,,2022-02-04T17:12:20.000Z,Working,Can I use your app on my phone?,Product Support
+W_Case.11,W_Account.1373,,,2022-02-04T17:12:20.000Z,New,securing data,Technical Issue
+W_Case.12,W_Account.9734,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I set up auto-renewal?,Account Support
+W_Case.13,W_Account.6104,,,2022-02-04T17:12:20.000Z,Escalated,Can you help me get set up?,Product Support
+W_Case.14,W_Account.3961,,,2022-02-04T17:12:20.000Z,New,Power Adaptor not charging,
+W_Case.15,W_Account.649,,,2022-02-04T17:12:20.000Z,Waiting on Customer,Do you have a loyalty program?,General
+W_Case.16,W_Account.5218,,,2022-02-04T17:12:20.000Z,New,Question about my invoice,Account Support
+W_Case.17,W_Account.8521,,,2022-02-04T17:12:20.000Z,New,Billing statement incorrect,Account Support
+W_Case.18,W_Account.1160,,,2022-02-04T17:12:20.000Z,Working,I have a question about my order.,Account Support
+W_Case.19,W_Account.530,,,2022-02-04T17:12:20.000Z,Waiting on Customer,Where can I purchase your products?,Account Support
+W_Case.20,W_Account.1046,,,2022-02-04T17:12:20.000Z,Waiting on Customer,What's included in your service contract?,General
+W_Case.21,W_Account.1746,,,2022-02-04T17:12:20.000Z,Working,Product is shutting down intermittently,General
+W_Case.22,W_Account.4809,,,2022-02-04T17:12:20.000Z,Working,Billing statement reprint,Account Support
+W_Case.23,W_Account.9384,,,2022-02-04T17:12:20.000Z,Waiting on Customer,What’s the product warranty policy?,Product Support
+W_Case.24,W_Account.4159,,,2022-02-04T17:12:20.000Z,New,TWEET FROM: MarkKingston,
+W_Case.25,W_Account.7891,2019-02-20T00:32:31.000Z,,2022-02-04T17:12:20.000Z,Closed,Can you expedite my order?,Account Support
+W_Case.26,W_Account.502,2019-02-20T00:32:31.000Z,,2022-02-04T17:12:20.000Z,Closed,Turbine is spinning but no energy is being produced,Technical Issue
+W_Case.27,W_Account.2560,2019-02-20T00:32:31.000Z,,2022-02-04T17:12:20.000Z,Closed,Facebook Message from: Lauren Boyle,General
+W_Case.28,W_Account.4952,,,2022-02-04T17:12:20.000Z,Working,How do I diagnose this product issue?,Product Support
+W_Case.29,W_Account.1701,,,2022-02-04T17:12:20.000Z,Waiting on Customer,How do I set up auto-payment?,Account Support
+W_Case.30,W_Account.823,,,2022-02-04T17:12:20.000Z,Escalated,Can't understand instructions,Technical Issue
+W_Case.31,W_Account.7891,,,2022-02-04T17:12:20.000Z,New,How do I use your mobile app?,General
+W_Case.32,W_Account.3649,,,2022-02-04T17:12:20.000Z,New,I'd like to pay my invoice,Account Support
+W_Case.33,W_Account.5533,,,2022-02-04T17:12:20.000Z,Waiting on Customer,Turbine not reaching operating speed,Product Support
+W_Case.34,W_Account.8318,,,2022-02-04T17:12:20.000Z,New,Twitter Message: Help!  I'm having setup trouble.,Product Support
+W_Case.35,W_Account.7716,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Bill payment clarification.,Account Support
+W_Case.36,W_Account.2491,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Customer service hours of operation.,General
+W_Case.37,W_Account.2337,,,2022-02-04T17:12:20.000Z,New,Please send shipping confirmation.,Account Support
+W_Case.38,W_Account.9882,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,I received the wrong invoice.,Account Support
+W_Case.39,W_Account.9395,2008-02-07T21:32:22.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I sign up for your email newsletter?,General
+W_Case.40,W_Account.3050,2013-02-21T00:05:08.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I troubleshoot a product issue?,Product Support
+W_Case.41,W_Account.5092,,,2022-02-04T17:12:20.000Z,Working,Where do I get your mobile app?,Product Support
+W_Case.42,W_Account.4201,,,2022-02-04T17:12:20.000Z,Researching,Installation instructions tough to understand,Technical Issue
+W_Case.43,W_Account.6589,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Purchase order question,Account Support
+W_Case.44,W_Account.4803,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I upgrade my service?,Account Support
+W_Case.45,W_Account.7829,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Please change my contact information.,Account Support
+W_Case.46,W_Account.4877,2008-02-08T00:33:27.000Z,,2022-02-04T17:12:20.000Z,Closed,Where can I download your mobile app?,Product Support
+W_Case.47,W_Account.8941,,,2022-02-04T17:12:20.000Z,Researching,Security Token,Technical Issue
+W_Case.48,W_Account.6736,,,2022-02-04T17:12:20.000Z,Working,How do I enable automatic payment?,Account Support
+W_Case.49,W_Account.9170,,,2022-02-04T17:12:20.000Z,New,Clarification of charges on my bill,Account Support
+W_Case.50,W_Account.3360,,,2022-02-04T17:12:20.000Z,On Hold,Need information,Technical Issue - Advanced
+W_Case.51,W_Account.3132,,,2022-02-04T17:12:20.000Z,Escalated,Shipping container appears damaged,General
+W_Case.52,W_Account.8169,,,2022-02-04T17:12:20.000Z,Working,Can I access your community from my mobile device?,Product Support
+W_Case.53,W_Account.9712,,,2022-02-04T17:12:20.000Z,Waiting on Customer,Facebook Message from: Larry Baxter,General
+W_Case.54,W_Account.2261,,,2022-02-04T17:12:20.000Z,New,Changing my password,Technical Issue
+W_Case.55,W_Account.4378,2018-02-06T14:46:46.000Z,,2022-02-04T17:12:20.000Z,Closed,Billing Issue address,Billing Issue
+W_Case.56,W_Account.2934,,,2022-02-04T17:12:20.000Z,Escalated,Storage space,Technical Issue
+W_Case.57,W_Account.3476,2015-06-05T10:01:33.000Z,,2022-02-04T17:12:20.000Z,Closed,Where do I send my check?,Account Support
+W_Case.58,W_Account.2432,2008-02-08T01:19:13.000Z,,2022-02-04T17:12:20.000Z,Closed,Billing address change,Account Support
+W_Case.59,W_Account.1785,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Does your app work on my mobile device?,Product Support
+W_Case.60,W_Account.5053,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Need guidance getting started with my installation,Product Support
+W_Case.61,W_Account.6947,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I change my communication preferences?,Account Support
+W_Case.62,W_Account.1318,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Troubleshooting issues with the product,Product Support
+W_Case.63,W_Account.2202,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Can't understand installation instructions,Product Support
+W_Case.64,W_Account.8080,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Is my personal information safe?,General
+W_Case.65,W_Account.1721,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,What does your service contract cover?,General
+W_Case.66,W_Account.2895,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,I need to pay my invoice.,Account Support
+W_Case.67,W_Account.9481,2008-02-08T00:53:01.000Z,,2022-02-04T17:12:20.000Z,Closed,Setup Instructions are missing,Product Support
+W_Case.68,W_Account.360,2008-02-07T23:51:27.000Z,,2022-02-04T17:12:20.000Z,Closed,Product manual is missing,Product Support
+W_Case.69,W_Account.3433,2013-02-21T00:19:06.000Z,,2022-02-04T17:12:20.000Z,Closed,Change of Address,Installation
+W_Case.70,W_Account.9815,2011-11-08T05:01:38.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I get started with your service?,Product Support
+W_Case.71,W_Account.9912,,,2022-02-04T17:12:20.000Z,New,"Product damaged, mishandled during shipping.",Account Support
+W_Case.72,W_Account.8079,,,2022-02-04T17:12:20.000Z,Working,How do I upgrade?,Product Support
+W_Case.73,W_Account.8433,,,2022-02-04T17:12:20.000Z,New,How can I request a new feature?,General
+W_Case.74,W_Account.6071,,,2022-02-04T17:12:20.000Z,Working,Was our last payment correct?,Account Support
+W_Case.75,W_Account.2419,2013-04-23T21:30:00.000Z,,2022-02-04T17:12:20.000Z,Closed,Items missing from shipment.,Account Support
+W_Case.76,W_Account.3744,,,2022-02-04T17:12:20.000Z,New,how is your data secured?,Technical Issue
+W_Case.77,W_Account.4965,,,2022-02-04T17:12:20.000Z,Researching,Email issues,Technical Issue
+W_Case.78,W_Account.7087,,,2022-02-04T17:12:20.000Z,Researching,Issues upgrading to latest version,Technical Issue
+W_Case.79,W_Account.3542,,,2022-02-04T17:12:20.000Z,Waiting on Customer,Customer would like to upgrade,Account Support
+W_Case.80,W_Account.5083,2018-02-06T14:46:32.000Z,,2022-02-04T17:12:20.000Z,Closed,Inquiry about Global Fund,Installation
+W_Case.81,W_Account.9143,2019-02-20T00:32:31.000Z,,2022-02-04T17:12:20.000Z,Closed,I have a product suggestion.,General
+W_Case.82,W_Account.9767,2018-02-06T14:46:58.000Z,,2022-02-04T17:12:20.000Z,Closed,Question about taxes on my order.,General
+W_Case.83,W_Account.3487,2008-02-07T21:28:18.000Z,,2022-02-04T17:12:20.000Z,Closed,What does your service contract cover?,General
+W_Case.84,W_Account.9935,2018-02-06T14:46:39.000Z,,2022-02-04T17:12:20.000Z,Closed,Wire Transfer - $45K*,Wire Transfer
+W_Case.85,W_Account.4051,,,2022-02-04T17:12:20.000Z,Working,Customer called to make a payment,Account Support
+W_Case.86,W_Account.2026,2015-06-02T15:01:03.000Z,,2022-02-04T17:12:20.000Z,Closed,Need additional product information,Product Support
+W_Case.87,W_Account.1626,2018-02-06T14:47:15.000Z,,2022-02-04T17:12:20.000Z,Closed,Question about my last billing statement,Account Support
+W_Case.88,W_Account.7190,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Assembly instruction help,Product Support
+W_Case.89,W_Account.4989,2008-02-07T23:44:38.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I obtain your annual report?,General
+W_Case.90,W_Account.472,2015-06-02T08:18:56.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I change my password?,Account Support
+W_Case.91,W_Account.9871,2018-02-06T14:46:18.000Z,,2022-02-04T17:12:20.000Z,Closed,Where do I submit a product suggestion?,General
+W_Case.92,W_Account.6385,,,2022-02-04T17:12:20.000Z,Waiting on Customer,I have a question about my bill,Account Support
+W_Case.93,W_Account.3157,,,2022-03-24T22:07:50.000Z,New,Monitor rebooting overnight,Technical Issue
+W_Case.94,W_Account.9766,,,2022-03-24T22:07:50.000Z,New,Configuration is broken,Technical Issue
+W_Case.95,W_Account.7339,,,2022-03-24T22:07:50.000Z,Researching,Issue with remote control,Technical Issue
+W_Case.96,W_Account.6174,2022-03-24T22:07:50.000Z,,2022-03-24T22:07:50.000Z,Closed,Wire Transfer - $20K,Wire Transfer
+W_Case.97,W_Account.9820,,,2022-03-24T22:07:50.000Z,Escalated,Where do I send my check?,Billing Issue
+W_Case.98,W_Account.8268,,,2022-02-04T17:12:20.000Z,New,How do I extend my product warranty?,Product Support
+W_Case.99,W_Account.5871,,,2022-02-04T17:12:20.000Z,Escalated,Email troubleshooting,Technical Issue
+W_Case.100,W_Account.3216,2011-11-08T05:06:44.000Z,,2022-02-04T17:12:20.000Z,Closed,I have a question about my contract.,Account Support
+W_Case.101,W_Account.1046,2018-02-06T14:48:16.000Z,,2022-02-04T17:12:20.000Z,Closed,Initiating return process.,General
+W_Case.102,W_Account.8243,2018-02-06T14:48:21.000Z,,2022-02-04T17:12:20.000Z,Closed,I have a product suggestion.,General
+W_Case.103,W_Account.9228,2018-02-06T14:48:30.000Z,,2022-02-04T17:12:20.000Z,Closed,Expediting my order?,Account Support
+W_Case.104,W_Account.2022,2008-07-17T06:22:10.000Z,,2022-02-04T17:12:20.000Z,Closed,Customer lost product manual and needs replacement,Product Support
+W_Case.105,W_Account.2667,,,2022-02-04T17:12:20.000Z,New,Can't get into my account,Technical Issue
+W_Case.106,W_Account.7012,2021-01-28T15:30:28.000Z,,2022-02-04T17:12:20.000Z,Closed,Product setup issues,Product Support
+W_Case.107,W_Account.1753,,,2022-02-04T17:12:20.000Z,Working,Can I use your app on my phone?,Product Support
+W_Case.108,W_Account.1662,,,2022-02-04T17:12:20.000Z,New,securing data,Technical Issue
+W_Case.109,W_Account.2043,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I set up auto-renewal?,Account Support
+W_Case.110,W_Account.4815,,,2022-02-04T17:12:20.000Z,Escalated,Can you help me get set up?,Product Support
+W_Case.111,W_Account.5312,,,2022-02-04T17:12:20.000Z,New,Power Adaptor not charging,
+W_Case.112,W_Account.9148,,,2022-02-04T17:12:20.000Z,Waiting on Customer,Do you have a loyalty program?,General
+W_Case.113,W_Account.4788,,,2022-02-04T17:12:20.000Z,New,Question about my invoice,Account Support
+W_Case.114,W_Account.5259,,,2022-02-04T17:12:20.000Z,New,Billing statement incorrect,Account Support
+W_Case.115,W_Account.2498,,,2022-02-04T17:12:20.000Z,Working,I have a question about my order.,Account Support
+W_Case.116,W_Account.4726,,,2022-02-04T17:12:20.000Z,Waiting on Customer,Where can I purchase your products?,Account Support
+W_Case.117,W_Account.3260,,,2022-02-04T17:12:20.000Z,Waiting on Customer,What's included in your service contract?,General
+W_Case.118,W_Account.4982,,,2022-02-04T17:12:20.000Z,Working,Product is shutting down intermittently,General
+W_Case.119,W_Account.6084,,,2022-02-04T17:12:20.000Z,Working,Billing statement reprint,Account Support
+W_Case.120,W_Account.7232,,,2022-02-04T17:12:20.000Z,Waiting on Customer,What’s the product warranty policy?,Product Support
+W_Case.121,W_Account.208,,,2022-02-04T17:12:20.000Z,New,TWEET FROM: MarkKingston,
+W_Case.122,W_Account.1347,2019-02-20T00:32:31.000Z,,2022-02-04T17:12:20.000Z,Closed,Can you expedite my order?,Account Support
+W_Case.123,W_Account.5822,2019-02-20T00:32:31.000Z,,2022-02-04T17:12:20.000Z,Closed,Turbine is spinning but no energy is being produced,Technical Issue
+W_Case.124,W_Account.2672,2019-02-20T00:32:31.000Z,,2022-02-04T17:12:20.000Z,Closed,Facebook Message from: Lauren Boyle,General
+W_Case.125,W_Account.9051,,,2022-02-04T17:12:20.000Z,Working,How do I diagnose this product issue?,Product Support
+W_Case.126,W_Account.518,,,2022-02-04T17:12:20.000Z,Waiting on Customer,How do I set up auto-payment?,Account Support
+W_Case.127,W_Account.4076,,,2022-02-04T17:12:20.000Z,Escalated,Can't understand instructions,Technical Issue
+W_Case.128,W_Account.7653,,,2022-02-04T17:12:20.000Z,New,How do I use your mobile app?,General
+W_Case.129,W_Account.1818,,,2022-02-04T17:12:20.000Z,New,I'd like to pay my invoice,Account Support
+W_Case.130,W_Account.216,,,2022-02-04T17:12:20.000Z,Waiting on Customer,Turbine not reaching operating speed,Product Support
+W_Case.131,W_Account.7595,,,2022-02-04T17:12:20.000Z,New,Twitter Message: Help!  I'm having setup trouble.,Product Support
+W_Case.132,W_Account.5627,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Bill payment clarification.,Account Support
+W_Case.133,W_Account.2170,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Customer service hours of operation.,General
+W_Case.134,W_Account.6423,,,2022-02-04T17:12:20.000Z,New,Please send shipping confirmation.,Account Support
+W_Case.135,W_Account.7027,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,I received the wrong invoice.,Account Support
+W_Case.136,W_Account.9421,2008-02-07T21:32:22.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I sign up for your email newsletter?,General
+W_Case.137,W_Account.4659,2013-02-21T00:05:08.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I troubleshoot a product issue?,Product Support
+W_Case.138,W_Account.4602,,,2022-02-04T17:12:20.000Z,Working,Where do I get your mobile app?,Product Support
+W_Case.139,W_Account.5768,,,2022-02-04T17:12:20.000Z,Researching,Installation instructions tough to understand,Technical Issue
+W_Case.140,W_Account.7080,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Purchase order question,Account Support
+W_Case.141,W_Account.8964,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I upgrade my service?,Account Support
+W_Case.142,W_Account.9648,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Please change my contact information.,Account Support
+W_Case.143,W_Account.642,2008-02-08T00:33:27.000Z,,2022-02-04T17:12:20.000Z,Closed,Where can I download your mobile app?,Product Support
+W_Case.144,W_Account.4335,,,2022-02-04T17:12:20.000Z,Researching,Security Token,Technical Issue
+W_Case.145,W_Account.1488,,,2022-02-04T17:12:20.000Z,Working,How do I enable automatic payment?,Account Support
+W_Case.146,W_Account.8854,,,2022-02-04T17:12:20.000Z,New,Clarification of charges on my bill,Account Support
+W_Case.147,W_Account.9050,,,2022-02-04T17:12:20.000Z,On Hold,Need information,Technical Issue - Advanced
+W_Case.148,W_Account.4437,,,2022-02-04T17:12:20.000Z,Escalated,Shipping container appears damaged,General
+W_Case.149,W_Account.9169,,,2022-02-04T17:12:20.000Z,Working,Can I access your community from my mobile device?,Product Support
+W_Case.150,W_Account.8004,,,2022-02-04T17:12:20.000Z,Waiting on Customer,Facebook Message from: Larry Baxter,General
+W_Case.151,W_Account.6593,,,2022-02-04T17:12:20.000Z,New,Changing my password,Technical Issue
+W_Case.152,W_Account.7717,2018-02-06T14:46:46.000Z,,2022-02-04T17:12:20.000Z,Closed,Billing Issue address,Billing Issue
+W_Case.153,W_Account.8758,,,2022-02-04T17:12:20.000Z,Escalated,Storage space,Technical Issue
+W_Case.154,W_Account.2858,2015-06-05T10:01:33.000Z,,2022-02-04T17:12:20.000Z,Closed,Where do I send my check?,Account Support
+W_Case.155,W_Account.6177,2008-02-08T01:19:13.000Z,,2022-02-04T17:12:20.000Z,Closed,Billing address change,Account Support
+W_Case.156,W_Account.6161,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Does your app work on my mobile device?,Product Support
+W_Case.157,W_Account.3237,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Need guidance getting started with my installation,Product Support
+W_Case.158,W_Account.924,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I change my communication preferences?,Account Support
+W_Case.159,W_Account.1637,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Troubleshooting issues with the product,Product Support
+W_Case.160,W_Account.4237,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Can't understand installation instructions,Product Support
+W_Case.161,W_Account.7791,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Is my personal information safe?,General
+W_Case.162,W_Account.648,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,What does your service contract cover?,General
+W_Case.163,W_Account.3394,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,I need to pay my invoice.,Account Support
+W_Case.164,W_Account.4334,2008-02-08T00:53:01.000Z,,2022-02-04T17:12:20.000Z,Closed,Setup Instructions are missing,Product Support
+W_Case.165,W_Account.4269,2008-02-07T23:51:27.000Z,,2022-02-04T17:12:20.000Z,Closed,Product manual is missing,Product Support
+W_Case.166,W_Account.9219,2013-02-21T00:19:06.000Z,,2022-02-04T17:12:20.000Z,Closed,Change of Address,Installation
+W_Case.167,W_Account.2110,2011-11-08T05:01:38.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I get started with your service?,Product Support
+W_Case.168,W_Account.4487,,,2022-02-04T17:12:20.000Z,New,"Product damaged, mishandled during shipping.",Account Support
+W_Case.169,W_Account.6375,,,2022-02-04T17:12:20.000Z,Working,How do I upgrade?,Product Support
+W_Case.170,W_Account.229,,,2022-02-04T17:12:20.000Z,New,How can I request a new feature?,General
+W_Case.171,W_Account.3731,,,2022-02-04T17:12:20.000Z,Working,Was our last payment correct?,Account Support
+W_Case.172,W_Account.6077,2013-04-23T21:30:00.000Z,,2022-02-04T17:12:20.000Z,Closed,Items missing from shipment.,Account Support
+W_Case.173,W_Account.2327,,,2022-02-04T17:12:20.000Z,New,how is your data secured?,Technical Issue
+W_Case.174,W_Account.1059,,,2022-02-04T17:12:20.000Z,Researching,Email issues,Technical Issue
+W_Case.175,W_Account.333,,,2022-02-04T17:12:20.000Z,Researching,Issues upgrading to latest version,Technical Issue
+W_Case.176,W_Account.9085,,,2022-02-04T17:12:20.000Z,Waiting on Customer,Customer would like to upgrade,Account Support
+W_Case.177,W_Account.6267,2018-02-06T14:46:32.000Z,,2022-02-04T17:12:20.000Z,Closed,Inquiry about Global Fund,Installation
+W_Case.178,W_Account.6145,2019-02-20T00:32:31.000Z,,2022-02-04T17:12:20.000Z,Closed,I have a product suggestion.,General
+W_Case.179,W_Account.5808,2018-02-06T14:46:58.000Z,,2022-02-04T17:12:20.000Z,Closed,Question about taxes on my order.,General
+W_Case.180,W_Account.8778,2008-02-07T21:28:18.000Z,,2022-02-04T17:12:20.000Z,Closed,What does your service contract cover?,General
+W_Case.181,W_Account.4334,2018-02-06T14:46:39.000Z,,2022-02-04T17:12:20.000Z,Closed,Wire Transfer - $45K*,Wire Transfer
+W_Case.182,W_Account.11,,,2022-02-04T17:12:20.000Z,Working,Customer called to make a payment,Account Support
+W_Case.183,W_Account.314,2015-06-02T15:01:03.000Z,,2022-02-04T17:12:20.000Z,Closed,Need additional product information,Product Support
+W_Case.184,W_Account.4639,2018-02-06T14:47:15.000Z,,2022-02-04T17:12:20.000Z,Closed,Question about my last billing statement,Account Support
+W_Case.185,W_Account.7831,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Assembly instruction help,Product Support
+W_Case.186,W_Account.3286,2008-02-07T23:44:38.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I obtain your annual report?,General
+W_Case.187,W_Account.5494,2015-06-02T08:18:56.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I change my password?,Account Support
+W_Case.188,W_Account.7974,2018-02-06T14:46:18.000Z,,2022-02-04T17:12:20.000Z,Closed,Where do I submit a product suggestion?,General
+W_Case.189,W_Account.1951,,,2022-02-04T17:12:20.000Z,Waiting on Customer,I have a question about my bill,Account Support
+W_Case.190,W_Account.9871,,,2022-03-24T22:07:50.000Z,New,Monitor rebooting overnight,Technical Issue
+W_Case.191,W_Account.2771,,,2022-03-24T22:07:50.000Z,New,Configuration is broken,Technical Issue
+W_Case.192,W_Account.9811,,,2022-03-24T22:07:50.000Z,Researching,Issue with remote control,Technical Issue
+W_Case.193,W_Account.8970,2022-03-24T22:07:50.000Z,,2022-03-24T22:07:50.000Z,Closed,Wire Transfer - $20K,Wire Transfer
+W_Case.194,W_Account.4302,,,2022-03-24T22:07:50.000Z,Escalated,Where do I send my check?,Billing Issue
+W_Case.195,W_Account.4086,,,2022-02-04T17:12:20.000Z,New,How do I extend my product warranty?,Product Support
+W_Case.196,W_Account.2387,,,2022-02-04T17:12:20.000Z,Escalated,Email troubleshooting,Technical Issue
+W_Case.197,W_Account.5755,2011-11-08T05:06:44.000Z,,2022-02-04T17:12:20.000Z,Closed,I have a question about my contract.,Account Support
+W_Case.198,W_Account.1634,2018-02-06T14:48:16.000Z,,2022-02-04T17:12:20.000Z,Closed,Initiating return process.,General
+W_Case.199,W_Account.7152,2018-02-06T14:48:21.000Z,,2022-02-04T17:12:20.000Z,Closed,I have a product suggestion.,General
+W_Case.200,W_Account.8641,2018-02-06T14:48:30.000Z,,2022-02-04T17:12:20.000Z,Closed,Expediting my order?,Account Support
+W_Case.201,W_Account.4454,2008-07-17T06:22:10.000Z,,2022-02-04T17:12:20.000Z,Closed,Customer lost product manual and needs replacement,Product Support
+W_Case.202,W_Account.7730,,,2022-02-04T17:12:20.000Z,New,Can't get into my account,Technical Issue
+W_Case.203,W_Account.1333,2021-01-28T15:30:28.000Z,,2022-02-04T17:12:20.000Z,Closed,Product setup issues,Product Support
+W_Case.204,W_Account.9901,,,2022-02-04T17:12:20.000Z,Working,Can I use your app on my phone?,Product Support
+W_Case.205,W_Account.2554,,,2022-02-04T17:12:20.000Z,New,securing data,Technical Issue
+W_Case.206,W_Account.2849,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I set up auto-renewal?,Account Support
+W_Case.207,W_Account.8211,,,2022-02-04T17:12:20.000Z,Escalated,Can you help me get set up?,Product Support
+W_Case.208,W_Account.7345,,,2022-02-04T17:12:20.000Z,New,Power Adaptor not charging,
+W_Case.209,W_Account.1998,,,2022-02-04T17:12:20.000Z,Waiting on Customer,Do you have a loyalty program?,General
+W_Case.210,W_Account.3756,,,2022-02-04T17:12:20.000Z,New,Question about my invoice,Account Support
+W_Case.211,W_Account.5833,,,2022-02-04T17:12:20.000Z,New,Billing statement incorrect,Account Support
+W_Case.212,W_Account.1889,,,2022-02-04T17:12:20.000Z,Working,I have a question about my order.,Account Support
+W_Case.213,W_Account.1666,,,2022-02-04T17:12:20.000Z,Waiting on Customer,Where can I purchase your products?,Account Support
+W_Case.214,W_Account.7772,,,2022-02-04T17:12:20.000Z,Waiting on Customer,What's included in your service contract?,General
+W_Case.215,W_Account.6480,,,2022-02-04T17:12:20.000Z,Working,Product is shutting down intermittently,General
+W_Case.216,W_Account.8106,,,2022-02-04T17:12:20.000Z,Working,Billing statement reprint,Account Support
+W_Case.217,W_Account.6564,,,2022-02-04T17:12:20.000Z,Waiting on Customer,What’s the product warranty policy?,Product Support
+W_Case.218,W_Account.9523,,,2022-02-04T17:12:20.000Z,New,TWEET FROM: MarkKingston,
+W_Case.219,W_Account.1053,2019-02-20T00:32:31.000Z,,2022-02-04T17:12:20.000Z,Closed,Can you expedite my order?,Account Support
+W_Case.220,W_Account.8727,2019-02-20T00:32:31.000Z,,2022-02-04T17:12:20.000Z,Closed,Turbine is spinning but no energy is being produced,Technical Issue
+W_Case.221,W_Account.697,2019-02-20T00:32:31.000Z,,2022-02-04T17:12:20.000Z,Closed,Facebook Message from: Lauren Boyle,General
+W_Case.222,W_Account.5553,,,2022-02-04T17:12:20.000Z,Working,How do I diagnose this product issue?,Product Support
+W_Case.223,W_Account.9595,,,2022-02-04T17:12:20.000Z,Waiting on Customer,How do I set up auto-payment?,Account Support
+W_Case.224,W_Account.1453,,,2022-02-04T17:12:20.000Z,Escalated,Can't understand instructions,Technical Issue
+W_Case.225,W_Account.1857,,,2022-02-04T17:12:20.000Z,New,How do I use your mobile app?,General
+W_Case.226,W_Account.270,,,2022-02-04T17:12:20.000Z,New,I'd like to pay my invoice,Account Support
+W_Case.227,W_Account.4874,,,2022-02-04T17:12:20.000Z,Waiting on Customer,Turbine not reaching operating speed,Product Support
+W_Case.228,W_Account.4380,,,2022-02-04T17:12:20.000Z,New,Twitter Message: Help!  I'm having setup trouble.,Product Support
+W_Case.229,W_Account.7241,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Bill payment clarification.,Account Support
+W_Case.230,W_Account.7514,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Customer service hours of operation.,General
+W_Case.231,W_Account.3604,,,2022-02-04T17:12:20.000Z,New,Please send shipping confirmation.,Account Support
+W_Case.232,W_Account.3635,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,I received the wrong invoice.,Account Support
+W_Case.233,W_Account.4775,2008-02-07T21:32:22.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I sign up for your email newsletter?,General
+W_Case.234,W_Account.5944,2013-02-21T00:05:08.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I troubleshoot a product issue?,Product Support
+W_Case.235,W_Account.6977,,,2022-02-04T17:12:20.000Z,Working,Where do I get your mobile app?,Product Support
+W_Case.236,W_Account.8806,,,2022-02-04T17:12:20.000Z,Researching,Installation instructions tough to understand,Technical Issue
+W_Case.237,W_Account.9238,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Purchase order question,Account Support
+W_Case.238,W_Account.2548,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I upgrade my service?,Account Support
+W_Case.239,W_Account.3951,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Please change my contact information.,Account Support
+W_Case.240,W_Account.4178,2008-02-08T00:33:27.000Z,,2022-02-04T17:12:20.000Z,Closed,Where can I download your mobile app?,Product Support
+W_Case.241,W_Account.7027,,,2022-02-04T17:12:20.000Z,Researching,Security Token,Technical Issue
+W_Case.242,W_Account.5821,,,2022-02-04T17:12:20.000Z,Working,How do I enable automatic payment?,Account Support
+W_Case.243,W_Account.3981,,,2022-02-04T17:12:20.000Z,New,Clarification of charges on my bill,Account Support
+W_Case.244,W_Account.6848,,,2022-02-04T17:12:20.000Z,On Hold,Need information,Technical Issue - Advanced
+W_Case.245,W_Account.3961,,,2022-02-04T17:12:20.000Z,Escalated,Shipping container appears damaged,General
+W_Case.246,W_Account.3733,,,2022-02-04T17:12:20.000Z,Working,Can I access your community from my mobile device?,Product Support
+W_Case.247,W_Account.9129,,,2022-02-04T17:12:20.000Z,Waiting on Customer,Facebook Message from: Larry Baxter,General
+W_Case.248,W_Account.1723,,,2022-02-04T17:12:20.000Z,New,Changing my password,Technical Issue
+W_Case.249,W_Account.4492,2018-02-06T14:46:46.000Z,,2022-02-04T17:12:20.000Z,Closed,Billing Issue address,Billing Issue
+W_Case.250,W_Account.2018,,,2022-02-04T17:12:20.000Z,Escalated,Storage space,Technical Issue
+W_Case.251,W_Account.1096,2015-06-05T10:01:33.000Z,,2022-02-04T17:12:20.000Z,Closed,Where do I send my check?,Account Support
+W_Case.252,W_Account.1053,2008-02-08T01:19:13.000Z,,2022-02-04T17:12:20.000Z,Closed,Billing address change,Account Support
+W_Case.253,W_Account.1948,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Does your app work on my mobile device?,Product Support
+W_Case.254,W_Account.6366,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Need guidance getting started with my installation,Product Support
+W_Case.255,W_Account.4197,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I change my communication preferences?,Account Support
+W_Case.256,W_Account.422,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Troubleshooting issues with the product,Product Support
+W_Case.257,W_Account.2474,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Can't understand installation instructions,Product Support
+W_Case.258,W_Account.4695,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Is my personal information safe?,General
+W_Case.259,W_Account.4759,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,What does your service contract cover?,General
+W_Case.260,W_Account.1545,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,I need to pay my invoice.,Account Support
+W_Case.261,W_Account.8584,2008-02-08T00:53:01.000Z,,2022-02-04T17:12:20.000Z,Closed,Setup Instructions are missing,Product Support
+W_Case.262,W_Account.2782,2008-02-07T23:51:27.000Z,,2022-02-04T17:12:20.000Z,Closed,Product manual is missing,Product Support
+W_Case.263,W_Account.5525,2013-02-21T00:19:06.000Z,,2022-02-04T17:12:20.000Z,Closed,Change of Address,Installation
+W_Case.264,W_Account.5740,2011-11-08T05:01:38.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I get started with your service?,Product Support
+W_Case.265,W_Account.423,,,2022-02-04T17:12:20.000Z,New,"Product damaged, mishandled during shipping.",Account Support
+W_Case.266,W_Account.6375,,,2022-02-04T17:12:20.000Z,Working,How do I upgrade?,Product Support
+W_Case.267,W_Account.2358,,,2022-02-04T17:12:20.000Z,New,How can I request a new feature?,General
+W_Case.268,W_Account.5425,,,2022-02-04T17:12:20.000Z,Working,Was our last payment correct?,Account Support
+W_Case.269,W_Account.5355,2013-04-23T21:30:00.000Z,,2022-02-04T17:12:20.000Z,Closed,Items missing from shipment.,Account Support
+W_Case.270,W_Account.4060,,,2022-02-04T17:12:20.000Z,New,how is your data secured?,Technical Issue
+W_Case.271,W_Account.1249,,,2022-02-04T17:12:20.000Z,Researching,Email issues,Technical Issue
+W_Case.272,W_Account.7115,,,2022-02-04T17:12:20.000Z,Researching,Issues upgrading to latest version,Technical Issue
+W_Case.273,W_Account.3034,,,2022-02-04T17:12:20.000Z,Waiting on Customer,Customer would like to upgrade,Account Support
+W_Case.274,W_Account.629,2018-02-06T14:46:32.000Z,,2022-02-04T17:12:20.000Z,Closed,Inquiry about Global Fund,Installation
+W_Case.275,W_Account.2474,2019-02-20T00:32:31.000Z,,2022-02-04T17:12:20.000Z,Closed,I have a product suggestion.,General
+W_Case.276,W_Account.6401,2018-02-06T14:46:58.000Z,,2022-02-04T17:12:20.000Z,Closed,Question about taxes on my order.,General
+W_Case.277,W_Account.9350,2008-02-07T21:28:18.000Z,,2022-02-04T17:12:20.000Z,Closed,What does your service contract cover?,General
+W_Case.278,W_Account.2070,2018-02-06T14:46:39.000Z,,2022-02-04T17:12:20.000Z,Closed,Wire Transfer - $45K*,Wire Transfer
+W_Case.279,W_Account.3832,,,2022-02-04T17:12:20.000Z,Working,Customer called to make a payment,Account Support
+W_Case.280,W_Account.7295,2015-06-02T15:01:03.000Z,,2022-02-04T17:12:20.000Z,Closed,Need additional product information,Product Support
+W_Case.281,W_Account.4687,2018-02-06T14:47:15.000Z,,2022-02-04T17:12:20.000Z,Closed,Question about my last billing statement,Account Support
+W_Case.282,W_Account.1277,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Assembly instruction help,Product Support
+W_Case.283,W_Account.20,2008-02-07T23:44:38.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I obtain your annual report?,General
+W_Case.284,W_Account.5494,2015-06-02T08:18:56.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I change my password?,Account Support
+W_Case.285,W_Account.1410,2018-02-06T14:46:18.000Z,,2022-02-04T17:12:20.000Z,Closed,Where do I submit a product suggestion?,General
+W_Case.286,W_Account.5150,,,2022-02-04T17:12:20.000Z,Waiting on Customer,I have a question about my bill,Account Support
+W_Case.287,W_Account.8143,,,2022-03-24T22:07:50.000Z,New,Monitor rebooting overnight,Technical Issue
+W_Case.288,W_Account.3981,,,2022-03-24T22:07:50.000Z,New,Configuration is broken,Technical Issue
+W_Case.289,W_Account.3257,,,2022-03-24T22:07:50.000Z,Researching,Issue with remote control,Technical Issue
+W_Case.290,W_Account.1528,2022-03-24T22:07:50.000Z,,2022-03-24T22:07:50.000Z,Closed,Wire Transfer - $20K,Wire Transfer
+W_Case.291,W_Account.1545,,,2022-03-24T22:07:50.000Z,Escalated,Where do I send my check?,Billing Issue
+W_Case.292,W_Account.2439,,,2022-02-04T17:12:20.000Z,New,How do I extend my product warranty?,Product Support
+W_Case.293,W_Account.423,,,2022-02-04T17:12:20.000Z,Escalated,Email troubleshooting,Technical Issue
+W_Case.294,W_Account.6151,2011-11-08T05:06:44.000Z,,2022-02-04T17:12:20.000Z,Closed,I have a question about my contract.,Account Support
+W_Case.295,W_Account.5733,2018-02-06T14:48:16.000Z,,2022-02-04T17:12:20.000Z,Closed,Initiating return process.,General
+W_Case.296,W_Account.3562,2018-02-06T14:48:21.000Z,,2022-02-04T17:12:20.000Z,Closed,I have a product suggestion.,General
+W_Case.297,W_Account.1448,2018-02-06T14:48:30.000Z,,2022-02-04T17:12:20.000Z,Closed,Expediting my order?,Account Support
+W_Case.298,W_Account.9129,2008-07-17T06:22:10.000Z,,2022-02-04T17:12:20.000Z,Closed,Customer lost product manual and needs replacement,Product Support
+W_Case.299,W_Account.2071,,,2022-02-04T17:12:20.000Z,New,Can't get into my account,Technical Issue
+W_Case.300,W_Account.7900,2021-01-28T15:30:28.000Z,,2022-02-04T17:12:20.000Z,Closed,Product setup issues,Product Support
+W_Case.301,W_Account.3,,,2022-02-04T17:12:20.000Z,Working,Can I use your app on my phone?,Product Support
+W_Case.302,W_Account.2950,,,2022-02-04T17:12:20.000Z,New,securing data,Technical Issue
+W_Case.303,W_Account.5165,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I set up auto-renewal?,Account Support
+W_Case.304,W_Account.3474,,,2022-02-04T17:12:20.000Z,Escalated,Can you help me get set up?,Product Support
+W_Case.305,W_Account.9352,,,2022-02-04T17:12:20.000Z,New,Power Adaptor not charging,
+W_Case.306,W_Account.5755,,,2022-02-04T17:12:20.000Z,Waiting on Customer,Do you have a loyalty program?,General
+W_Case.307,W_Account.8623,,,2022-02-04T17:12:20.000Z,New,Question about my invoice,Account Support
+W_Case.308,W_Account.7058,,,2022-02-04T17:12:20.000Z,New,Billing statement incorrect,Account Support
+W_Case.309,W_Account.3520,,,2022-02-04T17:12:20.000Z,Working,I have a question about my order.,Account Support
+W_Case.310,W_Account.402,,,2022-02-04T17:12:20.000Z,Waiting on Customer,Where can I purchase your products?,Account Support
+W_Case.311,W_Account.9213,,,2022-02-04T17:12:20.000Z,Waiting on Customer,What's included in your service contract?,General
+W_Case.312,W_Account.3529,,,2022-02-04T17:12:20.000Z,Working,Product is shutting down intermittently,General
+W_Case.313,W_Account.2814,,,2022-02-04T17:12:20.000Z,Working,Billing statement reprint,Account Support
+W_Case.314,W_Account.2866,,,2022-02-04T17:12:20.000Z,Waiting on Customer,What’s the product warranty policy?,Product Support
+W_Case.315,W_Account.7770,,,2022-02-04T17:12:20.000Z,New,TWEET FROM: MarkKingston,
+W_Case.316,W_Account.2026,2019-02-20T00:32:31.000Z,,2022-02-04T17:12:20.000Z,Closed,Can you expedite my order?,Account Support
+W_Case.317,W_Account.5773,2019-02-20T00:32:31.000Z,,2022-02-04T17:12:20.000Z,Closed,Turbine is spinning but no energy is being produced,Technical Issue
+W_Case.318,W_Account.8469,2019-02-20T00:32:31.000Z,,2022-02-04T17:12:20.000Z,Closed,Facebook Message from: Lauren Boyle,General
+W_Case.319,W_Account.7394,,,2022-02-04T17:12:20.000Z,Working,How do I diagnose this product issue?,Product Support
+W_Case.320,W_Account.9747,,,2022-02-04T17:12:20.000Z,Waiting on Customer,How do I set up auto-payment?,Account Support
+W_Case.321,W_Account.5192,,,2022-02-04T17:12:20.000Z,Escalated,Can't understand instructions,Technical Issue
+W_Case.322,W_Account.2983,,,2022-02-04T17:12:20.000Z,New,How do I use your mobile app?,General
+W_Case.323,W_Account.3819,,,2022-02-04T17:12:20.000Z,New,I'd like to pay my invoice,Account Support
+W_Case.324,W_Account.5011,,,2022-02-04T17:12:20.000Z,Waiting on Customer,Turbine not reaching operating speed,Product Support
+W_Case.325,W_Account.4507,,,2022-02-04T17:12:20.000Z,New,Twitter Message: Help!  I'm having setup trouble.,Product Support
+W_Case.326,W_Account.469,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Bill payment clarification.,Account Support
+W_Case.327,W_Account.1093,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Customer service hours of operation.,General
+W_Case.328,W_Account.7545,,,2022-02-04T17:12:20.000Z,New,Please send shipping confirmation.,Account Support
+W_Case.329,W_Account.2682,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,I received the wrong invoice.,Account Support
+W_Case.330,W_Account.9086,2008-02-07T21:32:22.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I sign up for your email newsletter?,General
+W_Case.331,W_Account.1720,2013-02-21T00:05:08.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I troubleshoot a product issue?,Product Support
+W_Case.332,W_Account.8175,,,2022-02-04T17:12:20.000Z,Working,Where do I get your mobile app?,Product Support
+W_Case.333,W_Account.4963,,,2022-02-04T17:12:20.000Z,Researching,Installation instructions tough to understand,Technical Issue
+W_Case.334,W_Account.27,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Purchase order question,Account Support
+W_Case.335,W_Account.5281,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I upgrade my service?,Account Support
+W_Case.336,W_Account.5203,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Please change my contact information.,Account Support
+W_Case.337,W_Account.2033,2008-02-08T00:33:27.000Z,,2022-02-04T17:12:20.000Z,Closed,Where can I download your mobile app?,Product Support
+W_Case.338,W_Account.8433,,,2022-02-04T17:12:20.000Z,Researching,Security Token,Technical Issue
+W_Case.339,W_Account.9102,,,2022-02-04T17:12:20.000Z,Working,How do I enable automatic payment?,Account Support
+W_Case.340,W_Account.5926,,,2022-02-04T17:12:20.000Z,New,Clarification of charges on my bill,Account Support
+W_Case.341,W_Account.8567,,,2022-02-04T17:12:20.000Z,On Hold,Need information,Technical Issue - Advanced
+W_Case.342,W_Account.8321,,,2022-02-04T17:12:20.000Z,Escalated,Shipping container appears damaged,General
+W_Case.343,W_Account.5892,,,2022-02-04T17:12:20.000Z,Working,Can I access your community from my mobile device?,Product Support
+W_Case.344,W_Account.4800,,,2022-02-04T17:12:20.000Z,Waiting on Customer,Facebook Message from: Larry Baxter,General
+W_Case.345,W_Account.7637,,,2022-02-04T17:12:20.000Z,New,Changing my password,Technical Issue
+W_Case.346,W_Account.269,2018-02-06T14:46:46.000Z,,2022-02-04T17:12:20.000Z,Closed,Billing Issue address,Billing Issue
+W_Case.347,W_Account.5719,,,2022-02-04T17:12:20.000Z,Escalated,Storage space,Technical Issue
+W_Case.348,W_Account.3472,2015-06-05T10:01:33.000Z,,2022-02-04T17:12:20.000Z,Closed,Where do I send my check?,Account Support
+W_Case.349,W_Account.158,2008-02-08T01:19:13.000Z,,2022-02-04T17:12:20.000Z,Closed,Billing address change,Account Support
+W_Case.350,W_Account.3215,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Does your app work on my mobile device?,Product Support
+W_Case.351,W_Account.4277,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Need guidance getting started with my installation,Product Support
+W_Case.352,W_Account.7002,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I change my communication preferences?,Account Support
+W_Case.353,W_Account.3214,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Troubleshooting issues with the product,Product Support
+W_Case.354,W_Account.8123,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Can't understand installation instructions,Product Support
+W_Case.355,W_Account.277,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Is my personal information safe?,General
+W_Case.356,W_Account.68,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,What does your service contract cover?,General
+W_Case.357,W_Account.7314,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,I need to pay my invoice.,Account Support
+W_Case.358,W_Account.9274,2008-02-08T00:53:01.000Z,,2022-02-04T17:12:20.000Z,Closed,Setup Instructions are missing,Product Support
+W_Case.359,W_Account.3978,2008-02-07T23:51:27.000Z,,2022-02-04T17:12:20.000Z,Closed,Product manual is missing,Product Support
+W_Case.360,W_Account.1513,2013-02-21T00:19:06.000Z,,2022-02-04T17:12:20.000Z,Closed,Change of Address,Installation
+W_Case.361,W_Account.7705,2011-11-08T05:01:38.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I get started with your service?,Product Support
+W_Case.362,W_Account.5871,,,2022-02-04T17:12:20.000Z,New,"Product damaged, mishandled during shipping.",Account Support
+W_Case.363,W_Account.1586,,,2022-02-04T17:12:20.000Z,Working,How do I upgrade?,Product Support
+W_Case.364,W_Account.2746,,,2022-02-04T17:12:20.000Z,New,How can I request a new feature?,General
+W_Case.365,W_Account.7517,,,2022-02-04T17:12:20.000Z,Working,Was our last payment correct?,Account Support
+W_Case.366,W_Account.6153,2013-04-23T21:30:00.000Z,,2022-02-04T17:12:20.000Z,Closed,Items missing from shipment.,Account Support
+W_Case.367,W_Account.9940,,,2022-02-04T17:12:20.000Z,New,how is your data secured?,Technical Issue
+W_Case.368,W_Account.453,,,2022-02-04T17:12:20.000Z,Researching,Email issues,Technical Issue
+W_Case.369,W_Account.8009,,,2022-02-04T17:12:20.000Z,Researching,Issues upgrading to latest version,Technical Issue
+W_Case.370,W_Account.1381,,,2022-02-04T17:12:20.000Z,Waiting on Customer,Customer would like to upgrade,Account Support
+W_Case.371,W_Account.1716,2018-02-06T14:46:32.000Z,,2022-02-04T17:12:20.000Z,Closed,Inquiry about Global Fund,Installation
+W_Case.372,W_Account.5865,2019-02-20T00:32:31.000Z,,2022-02-04T17:12:20.000Z,Closed,I have a product suggestion.,General
+W_Case.373,W_Account.9086,2018-02-06T14:46:58.000Z,,2022-02-04T17:12:20.000Z,Closed,Question about taxes on my order.,General
+W_Case.374,W_Account.864,2008-02-07T21:28:18.000Z,,2022-02-04T17:12:20.000Z,Closed,What does your service contract cover?,General
+W_Case.375,W_Account.4281,2018-02-06T14:46:39.000Z,,2022-02-04T17:12:20.000Z,Closed,Wire Transfer - $45K*,Wire Transfer
+W_Case.376,W_Account.487,,,2022-02-04T17:12:20.000Z,Working,Customer called to make a payment,Account Support
+W_Case.377,W_Account.7003,2015-06-02T15:01:03.000Z,,2022-02-04T17:12:20.000Z,Closed,Need additional product information,Product Support
+W_Case.378,W_Account.9445,2018-02-06T14:47:15.000Z,,2022-02-04T17:12:20.000Z,Closed,Question about my last billing statement,Account Support
+W_Case.379,W_Account.8474,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Assembly instruction help,Product Support
+W_Case.380,W_Account.4578,2008-02-07T23:44:38.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I obtain your annual report?,General
+W_Case.381,W_Account.2473,2015-06-02T08:18:56.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I change my password?,Account Support
+W_Case.382,W_Account.7227,2018-02-06T14:46:18.000Z,,2022-02-04T17:12:20.000Z,Closed,Where do I submit a product suggestion?,General
+W_Case.383,W_Account.597,,,2022-02-04T17:12:20.000Z,Waiting on Customer,I have a question about my bill,Account Support
+W_Case.384,W_Account.1246,,,2022-03-24T22:07:50.000Z,New,Monitor rebooting overnight,Technical Issue
+W_Case.385,W_Account.2918,,,2022-03-24T22:07:50.000Z,New,Configuration is broken,Technical Issue
+W_Case.386,W_Account.5887,,,2022-03-24T22:07:50.000Z,Researching,Issue with remote control,Technical Issue
+W_Case.387,W_Account.2660,2022-03-24T22:07:50.000Z,,2022-03-24T22:07:50.000Z,Closed,Wire Transfer - $20K,Wire Transfer
+W_Case.388,W_Account.3366,,,2022-03-24T22:07:50.000Z,Escalated,Where do I send my check?,Billing Issue
+W_Case.389,W_Account.4280,,,2022-02-04T17:12:20.000Z,New,How do I extend my product warranty?,Product Support
+W_Case.390,W_Account.4752,,,2022-02-04T17:12:20.000Z,Escalated,Email troubleshooting,Technical Issue
+W_Case.391,W_Account.5543,2011-11-08T05:06:44.000Z,,2022-02-04T17:12:20.000Z,Closed,I have a question about my contract.,Account Support
+W_Case.392,W_Account.5594,2018-02-06T14:48:16.000Z,,2022-02-04T17:12:20.000Z,Closed,Initiating return process.,General
+W_Case.393,W_Account.833,2018-02-06T14:48:21.000Z,,2022-02-04T17:12:20.000Z,Closed,I have a product suggestion.,General
+W_Case.394,W_Account.8106,2018-02-06T14:48:30.000Z,,2022-02-04T17:12:20.000Z,Closed,Expediting my order?,Account Support
+W_Case.395,W_Account.3400,2008-07-17T06:22:10.000Z,,2022-02-04T17:12:20.000Z,Closed,Customer lost product manual and needs replacement,Product Support
+W_Case.396,W_Account.5177,,,2022-02-04T17:12:20.000Z,New,Can't get into my account,Technical Issue
+W_Case.397,W_Account.6048,2021-01-28T15:30:28.000Z,,2022-02-04T17:12:20.000Z,Closed,Product setup issues,Product Support
+W_Case.398,W_Account.2300,,,2022-02-04T17:12:20.000Z,Working,Can I use your app on my phone?,Product Support
+W_Case.399,W_Account.5503,,,2022-02-04T17:12:20.000Z,New,securing data,Technical Issue
+W_Case.400,W_Account.5696,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I set up auto-renewal?,Account Support
+W_Case.401,W_Account.5092,,,2022-02-04T17:12:20.000Z,Escalated,Can you help me get set up?,Product Support
+W_Case.402,W_Account.3899,,,2022-02-04T17:12:20.000Z,New,Power Adaptor not charging,
+W_Case.403,W_Account.9826,,,2022-02-04T17:12:20.000Z,Waiting on Customer,Do you have a loyalty program?,General
+W_Case.404,W_Account.7462,,,2022-02-04T17:12:20.000Z,New,Question about my invoice,Account Support
+W_Case.405,W_Account.6666,,,2022-02-04T17:12:20.000Z,New,Billing statement incorrect,Account Support
+W_Case.406,W_Account.8500,,,2022-02-04T17:12:20.000Z,Working,I have a question about my order.,Account Support
+W_Case.407,W_Account.9752,,,2022-02-04T17:12:20.000Z,Waiting on Customer,Where can I purchase your products?,Account Support
+W_Case.408,W_Account.394,,,2022-02-04T17:12:20.000Z,Waiting on Customer,What's included in your service contract?,General
+W_Case.409,W_Account.54,,,2022-02-04T17:12:20.000Z,Working,Product is shutting down intermittently,General
+W_Case.410,W_Account.8769,,,2022-02-04T17:12:20.000Z,Working,Billing statement reprint,Account Support
+W_Case.411,W_Account.8872,,,2022-02-04T17:12:20.000Z,Waiting on Customer,What’s the product warranty policy?,Product Support
+W_Case.412,W_Account.2102,,,2022-02-04T17:12:20.000Z,New,TWEET FROM: MarkKingston,
+W_Case.413,W_Account.3172,2019-02-20T00:32:31.000Z,,2022-02-04T17:12:20.000Z,Closed,Can you expedite my order?,Account Support
+W_Case.414,W_Account.132,2019-02-20T00:32:31.000Z,,2022-02-04T17:12:20.000Z,Closed,Turbine is spinning but no energy is being produced,Technical Issue
+W_Case.415,W_Account.4258,2019-02-20T00:32:31.000Z,,2022-02-04T17:12:20.000Z,Closed,Facebook Message from: Lauren Boyle,General
+W_Case.416,W_Account.5311,,,2022-02-04T17:12:20.000Z,Working,How do I diagnose this product issue?,Product Support
+W_Case.417,W_Account.576,,,2022-02-04T17:12:20.000Z,Waiting on Customer,How do I set up auto-payment?,Account Support
+W_Case.418,W_Account.7248,,,2022-02-04T17:12:20.000Z,Escalated,Can't understand instructions,Technical Issue
+W_Case.419,W_Account.6786,,,2022-02-04T17:12:20.000Z,New,How do I use your mobile app?,General
+W_Case.420,W_Account.8520,,,2022-02-04T17:12:20.000Z,New,I'd like to pay my invoice,Account Support
+W_Case.421,W_Account.4474,,,2022-02-04T17:12:20.000Z,Waiting on Customer,Turbine not reaching operating speed,Product Support
+W_Case.422,W_Account.6530,,,2022-02-04T17:12:20.000Z,New,Twitter Message: Help!  I'm having setup trouble.,Product Support
+W_Case.423,W_Account.1298,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Bill payment clarification.,Account Support
+W_Case.424,W_Account.4060,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Customer service hours of operation.,General
+W_Case.425,W_Account.6011,,,2022-02-04T17:12:20.000Z,New,Please send shipping confirmation.,Account Support
+W_Case.426,W_Account.754,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,I received the wrong invoice.,Account Support
+W_Case.427,W_Account.8520,2008-02-07T21:32:22.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I sign up for your email newsletter?,General
+W_Case.428,W_Account.2008,2013-02-21T00:05:08.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I troubleshoot a product issue?,Product Support
+W_Case.429,W_Account.8177,,,2022-02-04T17:12:20.000Z,Working,Where do I get your mobile app?,Product Support
+W_Case.430,W_Account.9845,,,2022-02-04T17:12:20.000Z,Researching,Installation instructions tough to understand,Technical Issue
+W_Case.431,W_Account.1261,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Purchase order question,Account Support
+W_Case.432,W_Account.5012,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I upgrade my service?,Account Support
+W_Case.433,W_Account.3925,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Please change my contact information.,Account Support
+W_Case.434,W_Account.9873,2008-02-08T00:33:27.000Z,,2022-02-04T17:12:20.000Z,Closed,Where can I download your mobile app?,Product Support
+W_Case.435,W_Account.1101,,,2022-02-04T17:12:20.000Z,Researching,Security Token,Technical Issue
+W_Case.436,W_Account.9013,,,2022-02-04T17:12:20.000Z,Working,How do I enable automatic payment?,Account Support
+W_Case.437,W_Account.3622,,,2022-02-04T17:12:20.000Z,New,Clarification of charges on my bill,Account Support
+W_Case.438,W_Account.4167,,,2022-02-04T17:12:20.000Z,On Hold,Need information,Technical Issue - Advanced
+W_Case.439,W_Account.8975,,,2022-02-04T17:12:20.000Z,Escalated,Shipping container appears damaged,General
+W_Case.440,W_Account.1131,,,2022-02-04T17:12:20.000Z,Working,Can I access your community from my mobile device?,Product Support
+W_Case.441,W_Account.2788,,,2022-02-04T17:12:20.000Z,Waiting on Customer,Facebook Message from: Larry Baxter,General
+W_Case.442,W_Account.3478,,,2022-02-04T17:12:20.000Z,New,Changing my password,Technical Issue
+W_Case.443,W_Account.3954,2018-02-06T14:46:46.000Z,,2022-02-04T17:12:20.000Z,Closed,Billing Issue address,Billing Issue
+W_Case.444,W_Account.8028,,,2022-02-04T17:12:20.000Z,Escalated,Storage space,Technical Issue
+W_Case.445,W_Account.2715,2015-06-05T10:01:33.000Z,,2022-02-04T17:12:20.000Z,Closed,Where do I send my check?,Account Support
+W_Case.446,W_Account.6074,2008-02-08T01:19:13.000Z,,2022-02-04T17:12:20.000Z,Closed,Billing address change,Account Support
+W_Case.447,W_Account.2304,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Does your app work on my mobile device?,Product Support
+W_Case.448,W_Account.4275,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Need guidance getting started with my installation,Product Support
+W_Case.449,W_Account.5437,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I change my communication preferences?,Account Support
+W_Case.450,W_Account.6202,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Troubleshooting issues with the product,Product Support
+W_Case.451,W_Account.2382,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Can't understand installation instructions,Product Support
+W_Case.452,W_Account.5257,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Is my personal information safe?,General
+W_Case.453,W_Account.4253,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,What does your service contract cover?,General
+W_Case.454,W_Account.422,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,I need to pay my invoice.,Account Support
+W_Case.455,W_Account.289,2008-02-08T00:53:01.000Z,,2022-02-04T17:12:20.000Z,Closed,Setup Instructions are missing,Product Support
+W_Case.456,W_Account.3,2008-02-07T23:51:27.000Z,,2022-02-04T17:12:20.000Z,Closed,Product manual is missing,Product Support
+W_Case.457,W_Account.9052,2013-02-21T00:19:06.000Z,,2022-02-04T17:12:20.000Z,Closed,Change of Address,Installation
+W_Case.458,W_Account.8249,2011-11-08T05:01:38.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I get started with your service?,Product Support
+W_Case.459,W_Account.6324,,,2022-02-04T17:12:20.000Z,New,"Product damaged, mishandled during shipping.",Account Support
+W_Case.460,W_Account.910,,,2022-02-04T17:12:20.000Z,Working,How do I upgrade?,Product Support
+W_Case.461,W_Account.5798,,,2022-02-04T17:12:20.000Z,New,How can I request a new feature?,General
+W_Case.462,W_Account.376,,,2022-02-04T17:12:20.000Z,Working,Was our last payment correct?,Account Support
+W_Case.463,W_Account.3065,2013-04-23T21:30:00.000Z,,2022-02-04T17:12:20.000Z,Closed,Items missing from shipment.,Account Support
+W_Case.464,W_Account.2065,,,2022-02-04T17:12:20.000Z,New,how is your data secured?,Technical Issue
+W_Case.465,W_Account.4231,,,2022-02-04T17:12:20.000Z,Researching,Email issues,Technical Issue
+W_Case.466,W_Account.2008,,,2022-02-04T17:12:20.000Z,Researching,Issues upgrading to latest version,Technical Issue
+W_Case.467,W_Account.5753,,,2022-02-04T17:12:20.000Z,Waiting on Customer,Customer would like to upgrade,Account Support
+W_Case.468,W_Account.4281,2018-02-06T14:46:32.000Z,,2022-02-04T17:12:20.000Z,Closed,Inquiry about Global Fund,Installation
+W_Case.469,W_Account.3554,2019-02-20T00:32:31.000Z,,2022-02-04T17:12:20.000Z,Closed,I have a product suggestion.,General
+W_Case.470,W_Account.7326,2018-02-06T14:46:58.000Z,,2022-02-04T17:12:20.000Z,Closed,Question about taxes on my order.,General
+W_Case.471,W_Account.5975,2008-02-07T21:28:18.000Z,,2022-02-04T17:12:20.000Z,Closed,What does your service contract cover?,General
+W_Case.472,W_Account.2981,2018-02-06T14:46:39.000Z,,2022-02-04T17:12:20.000Z,Closed,Wire Transfer - $45K*,Wire Transfer
+W_Case.473,W_Account.4114,,,2022-02-04T17:12:20.000Z,Working,Customer called to make a payment,Account Support
+W_Case.474,W_Account.6664,2015-06-02T15:01:03.000Z,,2022-02-04T17:12:20.000Z,Closed,Need additional product information,Product Support
+W_Case.475,W_Account.4497,2018-02-06T14:47:15.000Z,,2022-02-04T17:12:20.000Z,Closed,Question about my last billing statement,Account Support
+W_Case.476,W_Account.9968,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Assembly instruction help,Product Support
+W_Case.477,W_Account.4025,2008-02-07T23:44:38.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I obtain your annual report?,General
+W_Case.478,W_Account.2257,2015-06-02T08:18:56.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I change my password?,Account Support
+W_Case.479,W_Account.4179,2018-02-06T14:46:18.000Z,,2022-02-04T17:12:20.000Z,Closed,Where do I submit a product suggestion?,General
+W_Case.480,W_Account.7733,,,2022-02-04T17:12:20.000Z,Waiting on Customer,I have a question about my bill,Account Support
+W_Case.481,W_Account.4430,,,2022-03-24T22:07:50.000Z,New,Monitor rebooting overnight,Technical Issue
+W_Case.482,W_Account.3793,,,2022-03-24T22:07:50.000Z,New,Configuration is broken,Technical Issue
+W_Case.483,W_Account.1177,,,2022-03-24T22:07:50.000Z,Researching,Issue with remote control,Technical Issue
+W_Case.484,W_Account.423,2022-03-24T22:07:50.000Z,,2022-03-24T22:07:50.000Z,Closed,Wire Transfer - $20K,Wire Transfer
+W_Case.485,W_Account.4308,,,2022-03-24T22:07:50.000Z,Escalated,Where do I send my check?,Billing Issue
+W_Case.486,W_Account.1203,,,2022-02-04T17:12:20.000Z,New,How do I extend my product warranty?,Product Support
+W_Case.487,W_Account.6835,,,2022-02-04T17:12:20.000Z,Escalated,Email troubleshooting,Technical Issue
+W_Case.488,W_Account.9769,2011-11-08T05:06:44.000Z,,2022-02-04T17:12:20.000Z,Closed,I have a question about my contract.,Account Support
+W_Case.489,W_Account.1316,2018-02-06T14:48:16.000Z,,2022-02-04T17:12:20.000Z,Closed,Initiating return process.,General
+W_Case.490,W_Account.4537,2018-02-06T14:48:21.000Z,,2022-02-04T17:12:20.000Z,Closed,I have a product suggestion.,General
+W_Case.491,W_Account.1846,2018-02-06T14:48:30.000Z,,2022-02-04T17:12:20.000Z,Closed,Expediting my order?,Account Support
+W_Case.492,W_Account.887,2008-07-17T06:22:10.000Z,,2022-02-04T17:12:20.000Z,Closed,Customer lost product manual and needs replacement,Product Support
+W_Case.493,W_Account.3348,,,2022-02-04T17:12:20.000Z,New,Can't get into my account,Technical Issue
+W_Case.494,W_Account.595,2021-01-28T15:30:28.000Z,,2022-02-04T17:12:20.000Z,Closed,Product setup issues,Product Support
+W_Case.495,W_Account.8041,,,2022-02-04T17:12:20.000Z,Working,Can I use your app on my phone?,Product Support
+W_Case.496,W_Account.4268,,,2022-02-04T17:12:20.000Z,New,securing data,Technical Issue
+W_Case.497,W_Account.6848,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I set up auto-renewal?,Account Support
+W_Case.498,W_Account.9587,,,2022-02-04T17:12:20.000Z,Escalated,Can you help me get set up?,Product Support
+W_Case.499,W_Account.920,,,2022-02-04T17:12:20.000Z,New,Power Adaptor not charging,
+W_Case.500,W_Account.1204,,,2022-02-04T17:12:20.000Z,Waiting on Customer,Do you have a loyalty program?,General
+W_Case.501,W_Account.1047,,,2022-02-04T17:12:20.000Z,New,Question about my invoice,Account Support
+W_Case.502,W_Account.9159,,,2022-02-04T17:12:20.000Z,New,Billing statement incorrect,Account Support
+W_Case.503,W_Account.3849,,,2022-02-04T17:12:20.000Z,Working,I have a question about my order.,Account Support
+W_Case.504,W_Account.9935,,,2022-02-04T17:12:20.000Z,Waiting on Customer,Where can I purchase your products?,Account Support
+W_Case.505,W_Account.9042,,,2022-02-04T17:12:20.000Z,Waiting on Customer,What's included in your service contract?,General
+W_Case.506,W_Account.6687,,,2022-02-04T17:12:20.000Z,Working,Product is shutting down intermittently,General
+W_Case.507,W_Account.1937,,,2022-02-04T17:12:20.000Z,Working,Billing statement reprint,Account Support
+W_Case.508,W_Account.8331,,,2022-02-04T17:12:20.000Z,Waiting on Customer,What’s the product warranty policy?,Product Support
+W_Case.509,W_Account.5439,,,2022-02-04T17:12:20.000Z,New,TWEET FROM: MarkKingston,
+W_Case.510,W_Account.3234,2019-02-20T00:32:31.000Z,,2022-02-04T17:12:20.000Z,Closed,Can you expedite my order?,Account Support
+W_Case.511,W_Account.6015,2019-02-20T00:32:31.000Z,,2022-02-04T17:12:20.000Z,Closed,Turbine is spinning but no energy is being produced,Technical Issue
+W_Case.512,W_Account.5007,2019-02-20T00:32:31.000Z,,2022-02-04T17:12:20.000Z,Closed,Facebook Message from: Lauren Boyle,General
+W_Case.513,W_Account.3719,,,2022-02-04T17:12:20.000Z,Working,How do I diagnose this product issue?,Product Support
+W_Case.514,W_Account.7032,,,2022-02-04T17:12:20.000Z,Waiting on Customer,How do I set up auto-payment?,Account Support
+W_Case.515,W_Account.6157,,,2022-02-04T17:12:20.000Z,Escalated,Can't understand instructions,Technical Issue
+W_Case.516,W_Account.7277,,,2022-02-04T17:12:20.000Z,New,How do I use your mobile app?,General
+W_Case.517,W_Account.308,,,2022-02-04T17:12:20.000Z,New,I'd like to pay my invoice,Account Support
+W_Case.518,W_Account.9176,,,2022-02-04T17:12:20.000Z,Waiting on Customer,Turbine not reaching operating speed,Product Support
+W_Case.519,W_Account.6146,,,2022-02-04T17:12:20.000Z,New,Twitter Message: Help!  I'm having setup trouble.,Product Support
+W_Case.520,W_Account.7708,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Bill payment clarification.,Account Support
+W_Case.521,W_Account.5233,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Customer service hours of operation.,General
+W_Case.522,W_Account.9168,,,2022-02-04T17:12:20.000Z,New,Please send shipping confirmation.,Account Support
+W_Case.523,W_Account.3210,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,I received the wrong invoice.,Account Support
+W_Case.524,W_Account.5596,2008-02-07T21:32:22.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I sign up for your email newsletter?,General
+W_Case.525,W_Account.2885,2013-02-21T00:05:08.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I troubleshoot a product issue?,Product Support
+W_Case.526,W_Account.3991,,,2022-02-04T17:12:20.000Z,Working,Where do I get your mobile app?,Product Support
+W_Case.527,W_Account.8937,,,2022-02-04T17:12:20.000Z,Researching,Installation instructions tough to understand,Technical Issue
+W_Case.528,W_Account.8432,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Purchase order question,Account Support
+W_Case.529,W_Account.1592,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I upgrade my service?,Account Support
+W_Case.530,W_Account.3270,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Please change my contact information.,Account Support
+W_Case.531,W_Account.5496,2008-02-08T00:33:27.000Z,,2022-02-04T17:12:20.000Z,Closed,Where can I download your mobile app?,Product Support
+W_Case.532,W_Account.6530,,,2022-02-04T17:12:20.000Z,Researching,Security Token,Technical Issue
+W_Case.533,W_Account.3011,,,2022-02-04T17:12:20.000Z,Working,How do I enable automatic payment?,Account Support
+W_Case.534,W_Account.2132,,,2022-02-04T17:12:20.000Z,New,Clarification of charges on my bill,Account Support
+W_Case.535,W_Account.3802,,,2022-02-04T17:12:20.000Z,On Hold,Need information,Technical Issue - Advanced
+W_Case.536,W_Account.1120,,,2022-02-04T17:12:20.000Z,Escalated,Shipping container appears damaged,General
+W_Case.537,W_Account.6709,,,2022-02-04T17:12:20.000Z,Working,Can I access your community from my mobile device?,Product Support
+W_Case.538,W_Account.1435,,,2022-02-04T17:12:20.000Z,Waiting on Customer,Facebook Message from: Larry Baxter,General
+W_Case.539,W_Account.7620,,,2022-02-04T17:12:20.000Z,New,Changing my password,Technical Issue
+W_Case.540,W_Account.7354,2018-02-06T14:46:46.000Z,,2022-02-04T17:12:20.000Z,Closed,Billing Issue address,Billing Issue
+W_Case.541,W_Account.9193,,,2022-02-04T17:12:20.000Z,Escalated,Storage space,Technical Issue
+W_Case.542,W_Account.1142,2015-06-05T10:01:33.000Z,,2022-02-04T17:12:20.000Z,Closed,Where do I send my check?,Account Support
+W_Case.543,W_Account.7256,2008-02-08T01:19:13.000Z,,2022-02-04T17:12:20.000Z,Closed,Billing address change,Account Support
+W_Case.544,W_Account.1080,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Does your app work on my mobile device?,Product Support
+W_Case.545,W_Account.3350,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Need guidance getting started with my installation,Product Support
+W_Case.546,W_Account.224,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I change my communication preferences?,Account Support
+W_Case.547,W_Account.387,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Troubleshooting issues with the product,Product Support
+W_Case.548,W_Account.196,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Can't understand installation instructions,Product Support
+W_Case.549,W_Account.9373,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Is my personal information safe?,General
+W_Case.550,W_Account.3126,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,What does your service contract cover?,General
+W_Case.551,W_Account.6116,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,I need to pay my invoice.,Account Support
+W_Case.552,W_Account.5770,2008-02-08T00:53:01.000Z,,2022-02-04T17:12:20.000Z,Closed,Setup Instructions are missing,Product Support
+W_Case.553,W_Account.9112,2008-02-07T23:51:27.000Z,,2022-02-04T17:12:20.000Z,Closed,Product manual is missing,Product Support
+W_Case.554,W_Account.1558,2013-02-21T00:19:06.000Z,,2022-02-04T17:12:20.000Z,Closed,Change of Address,Installation
+W_Case.555,W_Account.6679,2011-11-08T05:01:38.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I get started with your service?,Product Support
+W_Case.556,W_Account.9672,,,2022-02-04T17:12:20.000Z,New,"Product damaged, mishandled during shipping.",Account Support
+W_Case.557,W_Account.1059,,,2022-02-04T17:12:20.000Z,Working,How do I upgrade?,Product Support
+W_Case.558,W_Account.8215,,,2022-02-04T17:12:20.000Z,New,How can I request a new feature?,General
+W_Case.559,W_Account.2315,,,2022-02-04T17:12:20.000Z,Working,Was our last payment correct?,Account Support
+W_Case.560,W_Account.8308,2013-04-23T21:30:00.000Z,,2022-02-04T17:12:20.000Z,Closed,Items missing from shipment.,Account Support
+W_Case.561,W_Account.3820,,,2022-02-04T17:12:20.000Z,New,how is your data secured?,Technical Issue
+W_Case.562,W_Account.2723,,,2022-02-04T17:12:20.000Z,Researching,Email issues,Technical Issue
+W_Case.563,W_Account.273,,,2022-02-04T17:12:20.000Z,Researching,Issues upgrading to latest version,Technical Issue
+W_Case.564,W_Account.1900,,,2022-02-04T17:12:20.000Z,Waiting on Customer,Customer would like to upgrade,Account Support
+W_Case.565,W_Account.5646,2018-02-06T14:46:32.000Z,,2022-02-04T17:12:20.000Z,Closed,Inquiry about Global Fund,Installation
+W_Case.566,W_Account.8930,2019-02-20T00:32:31.000Z,,2022-02-04T17:12:20.000Z,Closed,I have a product suggestion.,General
+W_Case.567,W_Account.5161,2018-02-06T14:46:58.000Z,,2022-02-04T17:12:20.000Z,Closed,Question about taxes on my order.,General
+W_Case.568,W_Account.5530,2008-02-07T21:28:18.000Z,,2022-02-04T17:12:20.000Z,Closed,What does your service contract cover?,General
+W_Case.569,W_Account.4230,2018-02-06T14:46:39.000Z,,2022-02-04T17:12:20.000Z,Closed,Wire Transfer - $45K*,Wire Transfer
+W_Case.570,W_Account.2387,,,2022-02-04T17:12:20.000Z,Working,Customer called to make a payment,Account Support
+W_Case.571,W_Account.1295,2015-06-02T15:01:03.000Z,,2022-02-04T17:12:20.000Z,Closed,Need additional product information,Product Support
+W_Case.572,W_Account.6955,2018-02-06T14:47:15.000Z,,2022-02-04T17:12:20.000Z,Closed,Question about my last billing statement,Account Support
+W_Case.573,W_Account.8238,2015-06-02T12:56:34.000Z,,2022-02-04T17:12:20.000Z,Closed,Assembly instruction help,Product Support
+W_Case.574,W_Account.4061,2008-02-07T23:44:38.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I obtain your annual report?,General
+W_Case.575,W_Account.2037,2015-06-02T08:18:56.000Z,,2022-02-04T17:12:20.000Z,Closed,How do I change my password?,Account Support
+W_Case.576,W_Account.1347,2018-02-06T14:46:18.000Z,,2022-02-04T17:12:20.000Z,Closed,Where do I submit a product suggestion?,General
+W_Case.577,W_Account.6280,,,2022-02-04T17:12:20.000Z,Waiting on Customer,I have a question about my bill,Account Support
+W_Case.578,W_Account.3593,,,2022-03-24T22:07:50.000Z,New,Monitor rebooting overnight,Technical Issue
+W_Case.579,W_Account.6163,,,2022-03-24T22:07:50.000Z,New,Configuration is broken,Technical Issue
+W_Case.580,W_Account.5328,,,2022-03-24T22:07:50.000Z,Researching,Issue with remote control,Technical Issue
+W_Case.581,W_Account.1779,2022-03-24T22:07:50.000Z,,2022-03-24T22:07:50.000Z,Closed,Wire Transfer - $20K,Wire Transfer
+W_Case.582,W_Account.8438,,,2022-03-24T22:07:50.000Z,Escalated,Where do I send my check?,Billing Issue

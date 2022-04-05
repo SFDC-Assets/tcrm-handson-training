@@ -1,0 +1,162 @@
+{
+    "fileFormat": {
+      "charsetName": "UTF-8",
+      "fieldsDelimitedBy": ",",
+      "linesTerminatedBy": "\r\n"
+    },
+    "objects": [
+      {
+        "connector": "CSV",
+        "fullyQualifiedName": "churnmodern2020_csv",
+        "label": "churnmodern2020.csv",
+        "name": "churnmodern2020_csv",
+        "fields": [
+          {
+            "fullyQualifiedName": "PaperlessBilling",
+            "name": "PaperlessBilling",
+            "type": "Text",
+            "label": "PaperlessBilling"
+          },
+          {
+            "fullyQualifiedName": "MultipleLines",
+            "name": "MultipleLines",
+            "type": "Text",
+            "label": "MultipleLines"
+          },
+          {
+            "fullyQualifiedName": "Set",
+            "name": "Set",
+            "type": "Text",
+            "label": "Set"
+          },
+          {
+            "fullyQualifiedName": "gender",
+            "name": "gender",
+            "type": "Text",
+            "label": "gender"
+          },
+          {
+            "fullyQualifiedName": "InternetService",
+            "name": "InternetService",
+            "type": "Text",
+            "label": "InternetService"
+          },        {
+            "fullyQualifiedName": "SeniorCitizen",
+            "name": "SeniorCitizen",
+            "type": "Text",
+            "label": "SeniorCitizen"
+          },
+          {
+            "fullyQualifiedName": "MonthlyCharges",
+            "name": "MonthlyCharges",
+            "type": "Numeric",
+            "label": "MonthlyCharges",
+            "precision": 18,
+            "defaultValue": "0",
+            "scale": 2,
+            "format": "0.00",
+            "decimalSeparator": "."
+          },
+          {
+            "fullyQualifiedName": "TotalCharges",
+            "name": "TotalCharges",
+            "type": "Numeric",
+            "label": "TotalCharges",
+            "precision": 18,
+            "defaultValue": "0",
+            "scale": 2,
+            "format": "0.00",
+            "decimalSeparator": "."
+          },
+          {
+            "fullyQualifiedName": "tenure",
+            "name": "tenure",
+            "type": "Numeric",
+            "label": "tenure",
+            "precision": 18,
+            "defaultValue": "0",
+            "scale": 0,
+            "format": "0"
+          },
+          {
+            "fullyQualifiedName": "Churn",
+            "name": "Churn",
+            "type": "Text",
+            "label": "Churn"
+          },
+          {
+            "fullyQualifiedName": "Contract",
+            "name": "Contract",
+            "type": "Text",
+            "label": "Contract"
+          },
+          {
+            "fullyQualifiedName": "customerID",
+            "name": "customerID",
+            "type": "Text",
+            "label": "customerID"
+          },
+          {
+            "fullyQualifiedName": "Dependents",
+            "name": "Dependents",
+            "type": "Text",
+            "label": "Dependents"
+          },
+          {
+            "fullyQualifiedName": "DeviceProtection",
+            "name": "DeviceProtection",
+            "type": "Text",
+            "label": "DeviceProtection"
+          },
+          {
+            "fullyQualifiedName": "OnlineBackup",
+            "name": "OnlineBackup",
+            "type": "Text",
+            "label": "OnlineBackup"
+          },
+          {
+            "fullyQualifiedName": "OnlineSecurity",
+            "name": "OnlineSecurity",
+            "type": "Text",
+            "label": "OnlineSecurity"
+          },
+          {
+            "fullyQualifiedName": "Partner",
+            "name": "Partner",
+            "type": "Text",
+            "label": "Partner"
+          },
+          {
+            "fullyQualifiedName": "PaymentMethod",
+            "name": "PaymentMethod",
+            "type": "Text",
+            "label": "PaymentMethod"
+          },
+          {
+            "fullyQualifiedName": "PhoneService",
+            "name": "PhoneService",
+            "type": "Text",
+            "label": "PhoneService"
+          },
+          {
+            "fullyQualifiedName": "StreamingMovies",
+            "name": "StreamingMovies",
+            "type": "Text",
+            "label": "StreamingMovies"
+          },
+          {
+            "fullyQualifiedName": "StreamingTV",
+            "name": "StreamingTV",
+            "type": "Text",
+            "label": "StreamingTV"
+          },
+          {
+            "fullyQualifiedName": "TechSupport",
+            "name": "TechSupport",
+            "type": "Text",
+            "label": "TechSupport"
+          }
+        ]
+      }
+    ]
+  }
