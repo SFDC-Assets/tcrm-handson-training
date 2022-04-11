@@ -1,7 +1,7 @@
 {
   "orgName": "TC22 TCRM HOT",
   "edition": "Enterprise",
-  "adminEmail": "bgalla@salesforce.com",
+  "adminEmail": "dummy@example.com",
   
   "features": ["EnableSetPasswordInApi", "WavePlatform", "EinsteinAnalyticsPlus", "AnalyticsAdminPerms", "AnalyticsAppEmbedded", "DevelopmentWave", "EinsteinAnalyticsPlus", "ServiceUser","SalesUser"],
   "settings": {

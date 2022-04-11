@@ -1,4 +1,0 @@
-Total records in input: 11205
-
-Successes: 11205
-Failures: 0
