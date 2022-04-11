@@ -1,8 +1,9 @@
 {
-  "orgName": "Einstein Discovery",
-  "edition": "Developer",
-  "hasSampleData": true,
-  "features": ["EnableSetPasswordInApi", "WavePlatform", "EinsteinAnalyticsPlus", "AnalyticsAdminPerms", "AnalyticsAppEmbedded", "DevelopmentWave", "EinsteinAnalyticsPlus", "DataProcessingEngine"],
+  "orgName": "TC22 TCRM HOT",
+  "edition": "Enterprise",
+  "adminEmail": "bgalla@salesforce.com",
+  
+  "features": ["EnableSetPasswordInApi", "WavePlatform", "EinsteinAnalyticsPlus", "AnalyticsAdminPerms", "AnalyticsAppEmbedded", "DevelopmentWave", "EinsteinAnalyticsPlus", "ServiceUser","SalesUser"],
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
