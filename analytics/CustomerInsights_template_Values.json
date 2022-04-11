@@ -1,6 +1,6 @@
 {
 "description":"app description",
-"label":"Customer Insights - Hands On Training 2",
+"label":"Customer Insights - HOT",
 "templateSourceId" : "sfdc_internal__CustomerInsights",
 
   "templateValues" : {

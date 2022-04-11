@@ -1,5 +1,0 @@
-UserRole.Name,External_Id__c,FirstName,LastName,Alias,Email,TimeZoneSidKey,Profile.Name,LocaleSidKey,LanguageLocaleKey,EmailEncodingKey,UserPermissionsSFContentUser,Username
-Central Sales,W_Sales_User.10,Alexis,Oconnor,aoconnor,aoconnor@sdodata.ac,America/Los_Angeles,Standard User,en_US,en_US,ISO-8859-1,FALSE,aoconnor@sdodata.ac.{TIMESTAMP}
-East Sales,W_Sales_User.16,William,Johnston,wjohnsto,wjohnsto@sdodata.ac,America/Los_Angeles,Standard User,en_US,en_US,ISO-8859-1,FALSE,wjohnsto@sdodata.ac.{TIMESTAMP}
-East Sales,W_Sales_User.17,Michael,Campos,mcampos,mcampos@sdodata.ac,America/Los_Angeles,Standard User,en_US,en_US,ISO-8859-1,FALSE,mcampos@sdodata.ac.{TIMESTAMP}
-West Sales,W_Sales_User.1,Amanda,Miller,amiller,amiller@sdodata.ac,America/Los_Angeles,Standard User,en_US,en_US,ISO-8859-1,FALSE,amiller@sdodata.ac.{TIMESTAMP}
