@@ -1,4 +1,4 @@
-sfdx shane:org:create -f config/project-scratch-def.json -d 1 -s --userprefix einstein -o discovery.demo
+sfdx shane:org:create -f config/project-scratch-def.json -d 7 -s --userprefix einstein -o discovery.demo
 sfdx force:source:push
 
 sfdx force:apex:execute -f scripts/apex/createUser.apex
