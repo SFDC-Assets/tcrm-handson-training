@@ -1,6 +1,7 @@
 sfdx shane:org:create -f config/project-scratch-def.json -d 7 -s --userprefix einstein -o discovery.demo
 sfdx force:source:push
 
+sfdx shane:user:password:set -p salesforce1 -g User -l User
 sfdx force:apex:execute -f scripts/apex/createUser.apex
 sfdx automig:load  --inputdir ./data/core
 sfdx force:apex:execute -f scripts/apex/changeOwnerAccount_Random.apex
@@ -13,6 +14,5 @@ sfdx shane:analytics:dataset:upload -f data/Account_Churn.csv -m data/Account_Ch
 
 sfdx analytics:app:create -f analytics/CustomerInsights_template_Values.json --wait 60
 
-sfdx shane:user:password:set -p salesforce1 -g User -l User
 
 sfdx force:org:open 
