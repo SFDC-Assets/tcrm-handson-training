@@ -1,8 +1,10 @@
 sfdx shane:org:create -f config/project-scratch-def.json -d 10 -s --userprefix einstein -o discovery.demo
 sfdx force:source:push
 
+
 #sfdx force:user:permset:assign -n TC_22_CRMA_Workshop
 sfdx shane:user:password:set -p salesforce1 -g User -l User
+
 
 sfdx force:apex:execute -f scripts/apex/createUser.apex
 sfdx automig:load  --inputdir ./data/core
