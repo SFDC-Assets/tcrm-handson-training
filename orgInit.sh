@@ -1,4 +1,4 @@
-sfdx shane:org:create -f config/project-scratch-def.json -d 30 -s --userprefix einstein -o discovery.demo
+sfdx shane:org:create -f config/project-scratch-def.json -d 30 -s --userprefix einstein -o ZeroTo360.demo
 sfdx force:source:push
 
 
