@@ -21,4 +21,4 @@ sfdx analytics:app:create -f analytics/CustomerInsights_template_Values.json --w
 
 
 
-sfdx force:org:open
+sfdx force:org:open --path lightning
