@@ -7,4 +7,4 @@ sfdx shane:analytics:dataset:upload -f data/churnmodern2020.csv -m data/churnmod
 sfdx shane:analytics:dataset:upload -f data/Account_Churn.csv -m data/Account_Churn.json -n 'Account_Churn' -a Build_a_Model_with_ED --async
 
 
-sfdx force:org:open
+sfdx force:org:open --path lightning
