@@ -11,6 +11,7 @@
     "Has_Activities" : "Yes",
     "Has_Cases" : "Yes",
     "Has_RoleHierarchy" : "Yes",
+    "SecurityPredicate" : "Option 3: Users view all data",
     "Fiscal_Month" : "01 - January",
     "First_Day_Of_Week" : 0,
     "FY_Month_Offset_Map" : {
